@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ВМ\TridiagonalMatrixAlgorithm\TridiagonalMatrixAlgorithm\bin\Debug\netcoreapp3.1\TridiagonalMatrixAlgorithm.exe
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ВМ\TridiagonalMatrixAlgorithm\TridiagonalMatrixAlgorithm\bin\Debug\netcoreapp3.1\TridiagonalMatrixAlgorithm.deps.json
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ВМ\TridiagonalMatrixAlgorithm\TridiagonalMatrixAlgorithm\bin\Debug\netcoreapp3.1\TridiagonalMatrixAlgorithm.runtimeconfig.json
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ВМ\TridiagonalMatrixAlgorithm\TridiagonalMatrixAlgorithm\bin\Debug\netcoreapp3.1\TridiagonalMatrixAlgorithm.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ВМ\TridiagonalMatrixAlgorithm\TridiagonalMatrixAlgorithm\bin\Debug\netcoreapp3.1\TridiagonalMatrixAlgorithm.dll
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ВМ\TridiagonalMatrixAlgorithm\TridiagonalMatrixAlgorithm\bin\Debug\netcoreapp3.1\TridiagonalMatrixAlgorithm.pdb
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ВМ\TridiagonalMatrixAlgorithm\TridiagonalMatrixAlgorithm\obj\Debug\netcoreapp3.1\TridiagonalMatrixAlgorithm.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ВМ\TridiagonalMatrixAlgorithm\TridiagonalMatrixAlgorithm\obj\Debug\netcoreapp3.1\TridiagonalMatrixAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ВМ\TridiagonalMatrixAlgorithm\TridiagonalMatrixAlgorithm\obj\Debug\netcoreapp3.1\TridiagonalMatrixAlgorithm.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ВМ\TridiagonalMatrixAlgorithm\TridiagonalMatrixAlgorithm\obj\Debug\netcoreapp3.1\TridiagonalMatrixAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ВМ\TridiagonalMatrixAlgorithm\TridiagonalMatrixAlgorithm\obj\Debug\netcoreapp3.1\TridiagonalMatrixAlgorithm.dll
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ВМ\TridiagonalMatrixAlgorithm\TridiagonalMatrixAlgorithm\obj\Debug\netcoreapp3.1\TridiagonalMatrixAlgorithm.pdb
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ВМ\TridiagonalMatrixAlgorithm\TridiagonalMatrixAlgorithm\obj\Debug\netcoreapp3.1\TridiagonalMatrixAlgorithm.genruntimeconfig.cache
